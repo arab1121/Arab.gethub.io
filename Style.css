@@ -1,3 +1,8 @@
+/* HTML Effect */
+html {
+  scroll-behavior: smooth;
+}
+
 /* General Styling */
 body {
   font-family: Arial, sans-serif;
@@ -16,6 +21,10 @@ main {
 h1,
 h2,
 h3 {
+  color: #003366;
+}
+.profile-link {
+  text-decoration: none;
   color: #003366;
 }
 
